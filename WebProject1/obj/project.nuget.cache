@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "HdxPWk0Jcx3FnNXn0al6ctoo+uFtB2aLHQho+NrUqvMsyf/ElJekcBE/bmiL/pUsQDhUhbDCpXIjEmyZwgzHYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WALL-E\\Desktop\\Github\\WebProject1\\WebProject1\\WebProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WALL-E\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\WALL-E\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\WALL-E\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\WALL-E\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\WALL-E\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\WALL-E\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
